@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TabLayoutExample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="page_one">page_one</string>
+    <string name="page_two">page_two</string>
+    <string name="page_three">page_three</string>
+</resources>
